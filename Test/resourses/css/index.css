@@ -1,0 +1,27 @@
+.banner {
+    background-color: brown;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+.banner button:hover{
+     transition: .4s;
+     color: brown;
+     background-color: black;
+
+}
+
+
+#small-gritty {
+    height: 100px;
+    width: 100px;
+}
+#music {
+    color: black;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
